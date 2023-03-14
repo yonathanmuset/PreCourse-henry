@@ -1,2 +1,1 @@
-# PreCourse-henry
-este es un repositorio de prueba
+prueba decomo probar un repositorio git hub y clonarlo
